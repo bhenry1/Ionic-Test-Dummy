@@ -1,0 +1,8 @@
+{
+  "name": "Claw-Connect",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "c5e08d76"
+}
